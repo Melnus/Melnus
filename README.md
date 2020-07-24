@@ -1,4 +1,5 @@
 # Melnus  
+![Visitor Count](https://profile-counter.glitch.me/Melnus/count.svg)
   
   
 ## Features
