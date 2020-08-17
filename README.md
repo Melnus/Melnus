@@ -29,11 +29,13 @@ VR Citizen　
 ## Contributing editor
 Japanese, English, Chinese(Simplified)
 
-- [NeosVR日本語Wiki(Admin)](https://neosvrjp.memo.wiki/)
+- [NeosVR日本語Wiki/NeosVR Japanese Wiki(Admin)](https://neosvrjp.memo.wiki/)
   - [Backup](https://github.com/Melnus/NeosVR-JPN_Wiki/wiki)  
 - [NeosVR JP Techbook(Admin)](https://github.com/Melnus/NeosVRJP-Techbook)
   - [Top page](https://melnus.github.io/NeosVRJP-Techbook/)
-
+- [VRアバター準備 横断Wiki/Avatar Preparation Cross VR Services Wiki(Admin)](https://github.com/Melnus/Preparate-Avatar-Cross-VRS-WIKI)
+  - [Top page](https://preparate-avatar-introduction.memo.wiki/)  
+  
 ## Contact
 
 - Melnus#2688 on Discord
