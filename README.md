@@ -1,6 +1,7 @@
 # Melnus  
-![Visitor Count](https://profile-counter.glitch.me/Melnus/count.svg)  
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Melnus/count.svg)  
 [キリ番](https://github.com/Melnus/Melnus/issues/1)  
+-->
   
   
   
