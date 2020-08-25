@@ -46,3 +46,5 @@ Japanese, English, Chinese(Simplified)
 
 - [foriio](https://www.foriio.com/xr-melnus/)
 - [Booth](https://melnus.booth.pm/)
+- [Fanbox](https://melnus.fanbox.cc/)
+- [Medium](https://medium.com/@Melnus)
