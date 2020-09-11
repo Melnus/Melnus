@@ -45,6 +45,7 @@ Japanese, English, Chinese(Simplified)
 
 ## Portfolio
 
+- [notion](https://www.notion.so/melnus/c72174f997ca496c88f372a45abded89)
 - [foriio](https://www.foriio.com/xr-melnus/)
 - [Booth](https://melnus.booth.pm/)
 - [Fanbox](https://melnus.fanbox.cc/)
