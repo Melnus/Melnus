@@ -36,6 +36,9 @@ Japanese, English, Chinese(Simplified)
   - [Top page](https://melnus.github.io/NeosVRJP-Techbook/)
 - [VRアバター準備 横断Wiki/Avatar Preparation Cross VR Services Wiki(Admin)](https://github.com/Melnus/Preparate-Avatar-Cross-VRS-WIKI)
   - [Top page](https://preparate-avatar-introduction.memo.wiki/)  
+- [NeosLocale](https://github.com/Frooxius/NeosLocale)
+  - [Esperanto](https://github.com/Melnus/NeosLocale/blob/master/eo.json)
+  - [Simple Chinese](https://github.com/Melnus/NeosLocale/blob/master/zh-cn.json)
   
 ## Contact
 
