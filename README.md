@@ -38,7 +38,9 @@ Japanese, English, Chinese(Simplified)
   - [Top page](https://preparate-avatar-introduction.memo.wiki/)  
 - [NeosLocale](https://github.com/Frooxius/NeosLocale)
   - [Esperanto](https://github.com/Melnus/NeosLocale/blob/master/eo.json)
-  - [Simple Chinese](https://github.com/Melnus/NeosLocale/blob/master/zh-cn.json)
+  - [Simple Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-cn.json)
+  - [Traditional Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-tw.json)
+  - [Japanese (co-contributor)](https://github.com/Frooxius/NeosLocale/blob/master/ja.json)
   
 ## Contact
 
