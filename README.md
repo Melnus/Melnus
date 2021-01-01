@@ -31,9 +31,7 @@ VR Citizen　
 Japanese, English, Chinese(Simplified)
 
 - [NeosVR日本語Wiki/NeosVR Japanese Wiki(Admin)](https://neosvrjp.memo.wiki/)
-  - [Backup](https://github.com/LogiX-Educational-Institute/NeosVR-JPN_Wiki/wiki)  
-- [NeosVR JP Techbook(Admin)](https://github.com/LogiX-Educational-Institute/NeosVRJP-Techbook)
-  - [Top page](https://logix-educational-institute.github.io/NeosVRJP-Techbook/)
+  - [Backup](https://github.com/LogiX-Educational-Institute/NeosVR-JP-Wiki/wiki)
 - [VRアバター準備 横断Wiki/Avatar Preparation Cross VR Services Wiki(Admin)](https://github.com/Melnus/Preparate-Avatar-Cross-VRS-WIKI)
   - [Top page](https://preparate-avatar-introduction.memo.wiki/)  
 - [NeosLocale](https://github.com/Frooxius/NeosLocale)
