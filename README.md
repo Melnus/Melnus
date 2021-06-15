@@ -46,7 +46,8 @@ Japanese, English, Chinese(Simplified)
   
 ## Contact
 
-- Melnus#2688 on Discord
+- Melnus#2688 on Discord  
+  - [My Server URL](https://discord.gg/eH9h9y7XCU)
 - @Melnus_ on Twitter
 - Please send a message for contacts in this world on Wantedly, facebook or anything .　
 
