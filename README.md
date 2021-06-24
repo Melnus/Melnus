@@ -39,6 +39,8 @@ Japanese, English, Chinese(Simplified)
   - [Simple Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-cn.json)
   - [Traditional Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-tw.json)
   - [Japanese (co-contributor)](https://github.com/Frooxius/NeosLocale/blob/master/ja.json)
+- [白夜極光有志攻略Wiki](https://wikiwiki.jp/alchemystars/) 
+  - [WikiDiscord](https://wikiwiki.jp/alchemystars/#r7fef65e) 
 
 ## Other
 - 白夜極光単語辞書
