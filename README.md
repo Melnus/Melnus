@@ -53,6 +53,7 @@ Japanese, English, Chinese(Simplified)
 
 ## Portfolio
 
+- [Pixiv](https://www.pixiv.net/users/23070523)
 - [notion](https://www.notion.so/melnus/c72174f997ca496c88f372a45abded89)
 - [foriio](https://www.foriio.com/xr-melnus/)
 - [Booth](https://melnus.booth.pm/)
