@@ -13,7 +13,7 @@ VR Citizen　
 - C# (just a bit)
 - Modeling (see below)
 - Sound and Music editing (just a bit)
-- [drawing dots!](https://skeb.jp/@Melnus_)
+- [drawing dots!](https://www.pixiv.net/users/23070523)
 
 ## 3DModels
 
