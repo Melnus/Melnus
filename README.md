@@ -49,6 +49,7 @@ Japanese, English, Chinese(Simplified)
 - Melnus#2688 on Discord  
   - [My Server URL](https://discord.gg/eH9h9y7XCU)
 - @Melnus_ on Twitter
+- [misskeyio:@Melnus](https://misskey.io/@Melnus)
 - Please send a message for contacts in this world on Wantedly, facebook or anything .　
 
 ## Portfolio
