@@ -46,7 +46,7 @@ Japanese, English, Chinese(Simplified)
   
 ## Contact
 
-- Melnus#2688 on Discord  
+- Discord id: melnus  
   - [My Server URL](https://discord.gg/eH9h9y7XCU)
 - @Melnus_ on Twitter
 - [misskeyio:@Melnus](https://misskey.io/@Melnus)
