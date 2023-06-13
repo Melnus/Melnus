@@ -47,7 +47,7 @@ Japanese, English, Chinese(Simplified)
 ## Contact
 
 - Discord id: melnus  
-  - [My Server URL](https://discord.gg/NwjbFCWNFw))
+  - [My Server URL](https://discord.gg/NwjbFCWNFw)
 - @Melnus_ on Twitter
 - [misskeyio:@Melnus](https://misskey.io/@Melnus)
 - Please send a message for contacts in this world on Wantedly, facebook or anything .　
