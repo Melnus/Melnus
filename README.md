@@ -48,8 +48,8 @@ Japanese, English, Chinese(Simplified)
 
 - Discord id: melnus  
   - [My Server URL](https://discord.gg/NwjbFCWNFw)
-- @Melnus_ on Twitter
-- [misskeyio:@Melnus](https://misskey.io/@Melnus)
+- [main misskey.04.si:@Melnus](https://misskey.04.si/@Melnus)  
+- [sub misskeyio:@Melnus](https://misskey.io/@Melnus)
 - Please send a message for contacts in this world on Wantedly, facebook or anything .　
 
 ## Portfolio
