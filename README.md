@@ -49,7 +49,7 @@ Japanese, English, Chinese(Simplified)
 - Discord id: melnus  
   - [My Server URL](https://discord.gg/NwjbFCWNFw)
 - [melnus at bluesky](https://bsky.app/profile/melnus.bsky.social)
-- [melnus at nostr](npub1s04pv4r97h9ruukas3pzjvu6vuctv5el9yelqhdc5wkn2vus2gds6cwd70)
+- @melnus at mixi2
 - Please send a message for contacts in this world on Wantedly, facebook or anything .　
 
 ## Portfolio
