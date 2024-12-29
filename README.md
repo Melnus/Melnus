@@ -39,24 +39,14 @@ Japanese, English, Chinese(Simplified)
   - [Simple Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-cn.json)
   - [Traditional Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-tw.json)
   - [Japanese (co-contributor)](https://github.com/Frooxius/NeosLocale/blob/master/ja.json)
-
-## Other
-- 白夜極光単語辞書
-  - [リポジトリ](https://github.com/Melnus/AlchemyStar-Wiki-word-dictionary)
   
 ## Contact
 
 - Discord id: melnus  
-  - [My Server URL](https://discord.gg/NwjbFCWNFw)
-- [melnus at bluesky](https://bsky.app/profile/melnus.bsky.social)
-- @melnus at mixi2
-- Please send a message for contacts in this world on Wantedly, facebook or anything .　
+- @meln at mixi2　
 
 ## Portfolio
 
 - [Pixiv](https://www.pixiv.net/users/23070523)
 - [notion](https://www.notion.so/melnus/c72174f997ca496c88f372a45abded89)
-- [foriio](https://www.foriio.com/xr-melnus/)
 - [Booth](https://melnus.booth.pm/)
-- [Fanbox](https://melnus.fanbox.cc/)
-- [Medium](https://medium.com/@Melnus)
