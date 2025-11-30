@@ -1,52 +1,58 @@
-# Melnus  
-<!-- ![Visitor Count](https://profile-counter.glitch.me/Melnus/count.svg)  
-[キリ番](https://github.com/Melnus/Melnus/issues/1)  
+# Melnus
+<img src="https://github.com/Melnus/Melnus/blob/master/image/20200628220054_1.jpg" width="100%" alt="Header" title="Melnus">
+
+**Civic Tech Engineer / Independent Researcher / VR Citizen**
+
+> *"Debugging the Governance with Code & Logic."*
+
+---
+
+## 🏛️ Latest Research & Publications
+**行政評価と地域経済に関する最新の研究成果（論文・実装）**
+
+### 1. Standard Block Comparison Method (SBCM)
+**行政施策の定量的評価における標準ブロック比較法の提案**  
+人口規模の異なる自治体間での行政コストと効果を比較可能にする監査フレームワーク。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17766254.svg)](https://doi.org/10.5281/zenodo.17766254)
+- 📄 **Paper:** [Proposal for the Standard Block Comparison Method (SBCM)](https://doi.org/10.5281/zenodo.17766254) (Zenodo)
+- 💻 **Code:** [Standard-Block-Comparison-Method](https://github.com/Melnus/Standard-Block-Comparison-Method) (GitHub)
+
+### 2. SBCM Economics (Meso-Economics)
+**富の定着と循環を最大化するメソ経済フレームワーク**  
+「漏出（ストロー効果）」を防ぎ、地域内経済循環率を高めるための理論と実装（G-Cart）。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17766604.svg)](https://doi.org/10.5281/zenodo.17766604)
+- 📄 **Paper:** [SBCM Economics: A Meso-Economic Framework](https://doi.org/10.5281/zenodo.17766604) (Zenodo)
+- 💻 **Code:** [Virtual-General-Contractor](https://github.com/Melnus/Virtual-General-Contractor) (GitHub)
+
+---
+
+## 🛠️ Features & Skills
+
+### Engineering & Analysis
+- **Python** (Data Analysis, Simulation, Streamlit)
+- **GovTech / Civic Tech** (Administrative Audit, Open Data)
+- **C#** (Unity / Tool Development)
+
+### Creative
+- **3D Modeling** (Blender, VRM)
+- **Sound & Music Editing**
+- **Illustration** ([drawing dots!](https://www.pixiv.net/users/23070523))
+
+---
+
+## 📦 3D Models & Assets
+
+**Services**
+- [Seed Online](https://seed.online/users/100088)
+- [VRoid Hub](https://hub.vroid.com/users/23070523)
+- [ニコニ立体](http://3d.nicovideo.jp/u/melnus)
+
+**Original Works**
+- [Reine (GitHub)](https://github.com/Melnus/Reine-VRM-Model)
+- [Yue (GitHub)](https://github.com/Melnus/Yue-VRM-Model-)
+
+<!--
+![Visitor Count](https://profile-counter.glitch.me/Melnus/count.svg)
 -->
-  
-  
-  
-## Features
-<img src="https://github.com/Melnus/Melnus/blob/master/image/20200628220054_1.jpg" alt="CC" title="ME">  
-
-VR Citizen　
-
-- C# (just a bit)
-- Modeling (see below)
-- Sound and Music editing (just a bit)
-- [drawing dots!](https://www.pixiv.net/users/23070523)
-
-## 3DModels
-
-- [Services]
-  - [Seed Online](https://seed.online/users/100088)  
-  - [VRoid Hub](https://hub.vroid.com/users/23070523)  
-  - [ニコニ立体](http://3d.nicovideo.jp/u/melnus)  
-- [Original]
-  - [Reine(Github)](https://github.com/Melnus/Reine-VRM-Model)  
-  - [Yue(Github)](https://github.com/Melnus/Yue-VRM-Model-)  
-  - [Katuo(Github)](https://github.com/Melnus/Katuo)  
-  etc ...
-
-## Contributing editor
-Japanese, English, Chinese(Simplified)
-
-- [NeosVR日本語Wiki/NeosVR Japanese Wiki(Admin)](https://neosvrjp.memo.wiki/)
-  - [Backup](https://github.com/LogiX-Educational-Institute/NeosVR-JP-Wiki/wiki)
-- [VRアバター準備 横断Wiki/Avatar Preparation Cross VR Services Wiki(Admin)](https://github.com/Melnus/Preparate-Avatar-Cross-VRS-WIKI)
-  - [Top page](https://preparate-avatar-introduction.memo.wiki/)  
-- [NeosLocale](https://github.com/Frooxius/NeosLocale)
-  - [Esperanto](https://github.com/Frooxius/NeosLocale/blob/master/eo.json)
-  - [Simple Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-cn.json)
-  - [Traditional Chinese](https://github.com/Frooxius/NeosLocale/blob/master/zh-tw.json)
-  - [Japanese (co-contributor)](https://github.com/Frooxius/NeosLocale/blob/master/ja.json)
-  
-## Contact
-
-- Discord id: melnus  
-- @meln at mixi2　
-
-## Portfolio
-
-- [Pixiv](https://www.pixiv.net/users/23070523)
-- [notion](https://www.notion.so/melnus/c72174f997ca496c88f372a45abded89)
-- [Booth](https://melnus.booth.pm/)
