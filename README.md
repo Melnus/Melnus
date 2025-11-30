@@ -1,5 +1,5 @@
 # Melnus
-<img src="https://github.com/Melnus/Melnus/blob/master/image/20200628220054_1.jpg" width="100%" alt="Header" title="Melnus">
+<img src="image/nekochan.png" width="100%" alt="Header" title="Melnus">
 
 <div align="center">
 
