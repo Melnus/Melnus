@@ -34,6 +34,15 @@
 - 📄 **Paper:** [SBCM Economics: A Meso-Economic Framework](https://doi.org/10.5281/zenodo.17766604) (Zenodo)
 - 💻 **Code:** [Virtual-General-Contractor](https://github.com/Melnus/Virtual-General-Contractor) (GitHub)
 
+### 3. SBCM Economics Part 2 (Dynamic Analysis)
+**統治の熱力学とアルゴリズム公益主義**  
+時間軸 ( $t$ ) と無限 ( $\infty$ ) を導入し、インフラの将来負担（累積歪み）を積分計算する動的モデル。
+「道徳」ではなく「物理法則」によって公益を強制する新たな統治プロトコル。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17777745.svg)](https://doi.org/10.5281/zenodo.17777745)
+- 📄 **Paper:** [SBCM Economics Part 2: Dynamic Meso-Economics](https://doi.org/10.5281/zenodo.17777745) (Zenodo)
+- 💻 **Code:** [SBCM-Core-Theory](https://github.com/SBCM-Alliance/core-theory) (GitHub)
+
 ---
 
 ## 🛠️ Features & Skills
