@@ -41,7 +41,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17777745.svg)](https://doi.org/10.5281/zenodo.17777745)
 - 📄 **Paper:** [SBCM Economics Part 2: Dynamic Meso-Economics](https://doi.org/10.5281/zenodo.17777745) (Zenodo)
-- 💻 **Code:** [SBCM-Core-Theory](https://github.com/SBCM-Alliance/core-theory) (GitHub)
+- 💻 **Code:** [SBCM-The Heart (Thermodynamic Simulator)](https://github.com/SBCM-Alliance/the-heart) (GitHub)
 
 ---
 
