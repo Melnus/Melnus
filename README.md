@@ -12,6 +12,9 @@
 ![Discord](https://img.shields.io/badge/Discord-melnus-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Mixi2](https://img.shields.io/badge/Mixi2-meln-%23F39800.svg?style=for-the-badge&logo=mixi&logoColor=white)
 </div>
+  
+## 連絡先/Contact  
+👉️  [Here](https://github.com/SBCM-Alliance/core-theory/issues/1)
 
 ---
 
