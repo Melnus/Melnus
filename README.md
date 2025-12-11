@@ -46,7 +46,14 @@
 - 📄 **Paper:** [SBCM Economics Part 2: Dynamic Meso-Economics](https://doi.org/10.5281/zenodo.17777745) (Zenodo)
 - 💻 **Code:** [SBCM-The Heart (Thermodynamic Simulator)](https://github.com/SBCM-Alliance/the-heart) (GitHub)
 
----
+### 4. SBCM Field Theory (Administrative Hydraulics)
+**行政水理学：富の流束と発散を制御する場の方程式**  
+地域経済を離散ブロックではなく「連続的な流体場」として記述するSBCMの最終理論。
+富の流出（ストロー効果）をベクトル場の「正の発散（ $\nabla \cdot \mathbf{J} > 0$ ）」として定義し、それを制御するG-Cart（メッシュ細分化）の必然性を数学的に証明。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17890326.svg)](https://doi.org/10.5281/zenodo.17890326)
+- 📄 **Paper:** [SBCM Field Theory: The General Equations of Regional Flux and the Control of Divergence](https://doi.org/10.5281/zenodo.17890326) (Zenodo)
+- 💻 **Code:** -
 
 ## 🛠️ Features & Skills
 
