@@ -18,6 +18,15 @@
 
 ---
 
+## 🚀 Active Projects (Live Demos)
+
+| Project | Description | Status |
+| :--- | :--- | :---: |
+| **[🌏 SBCM GLOBAL SCANNER](https://sbcm-alliance.github.io/JAPAN-DISTORTION-MAP/)** | **Infrastructure Efficiency Auditor.**<br>都市のインフラ効率と富の流出を3D可視化するスキャナー。<br>WebGL / OpenStreetMap | **[LIVE]** |
+| **[🔋 Hungry Sona](https://sbcm-alliance.github.io/sona-battery-link/)** | **Digital Metabolism Experiment.**<br>スマホのバッテリー残量＝AIの空腹度。<br>充電を「餌やり」に変えるインターフェース実験。 | **[LIVE]** |
+
+---
+
 ## 🏛️ Latest Research & Publications
 **行政評価と地域経済に関する最新の研究成果（論文・実装）**
 
