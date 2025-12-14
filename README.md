@@ -62,8 +62,10 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17890326.svg)](https://doi.org/10.5281/zenodo.17890326)
 - 📄 **Paper:** [SBCM Field Theory: The General Equations of Regional Flux and the Control of Divergence](https://doi.org/10.5281/zenodo.17890326) (Zenodo)
-- 💻 **Code:** [SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)
-
+- 💻 **Code:**  
+📀[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)  
+📀[SBCM Simulator](https://github.com/SBCM-Alliance/SBCM-Simulator)[Demo](https://sbcm-alliance.github.io/SBCM-Simulator/)  
+  
 ## 🛠️ Features & Skills
 
 ### Engineering & Analysis
