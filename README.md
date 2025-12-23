@@ -22,7 +22,7 @@
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
-| **[🌏 SBCM GLOBAL SCANNER](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)])** | **Infrastructure Efficiency Auditor.**<br>都市のインフラ効率と富の流出を3D可視化するスキャナー。<br>WebGL / OpenStreetMap | **[LIVE]** |
+| **[🌏 SBCM GLOBAL SCANNER](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** | **Infrastructure Efficiency Auditor.**<br>都市のインフラ効率と富の流出を3D可視化するスキャナー。<br>WebGL / OpenStreetMap | **[LIVE]** |
 | **[🔋 Hungry Sona](https://sbcm-alliance.github.io/sona-battery-link/)** | **Digital Metabolism Experiment.**<br>スマホのバッテリー残量＝AIの空腹度。<br>充電を「餌やり」に変えるインターフェース実験。 | **[LIVE]** |
 
 ---
