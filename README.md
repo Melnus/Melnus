@@ -64,7 +64,16 @@
 - 📄 **Paper:** [SBCM Field Theory: The General Equations of Regional Flux and the Control of Divergence](https://doi.org/10.5281/zenodo.17890326) (Zenodo)
 - 💻 **Code:**  
 📀[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)  
-📀[SBCM Simulator](https://github.com/SBCM-Alliance/SBCM-Simulator) / [(Demo)](https://sbcm-alliance.github.io/SBCM-Simulator/)  
+📀[SBCM Simulator](https://github.com/SBCM-Alliance/SBCM-Simulator) / [(Demo)](https://sbcm-alliance.github.io/SBCM-Simulator/)
+
+### 5. SBCM Case Study (The Empirical Proof) 🌟 New!
+**東京・大阪・愛知における財政停滞と構造的富の搾取の比較分析**  
+理論編（Part 1-4）の方程式を、実際の決算データ（FY2024）に適用した実証研究の決定版。
+愛知県（産業中枢）を対照群とし、東京都が**「他地域の富を構造的に吸い上げ（Extraction）」**、かつ**「その富を死蔵させている（Stagnation）」**事実を、資金回転率（ $R_{fund} \approx 0.47$ ）等の指標により定量的に証明した。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18147498.svg)](https://doi.org/10.5281/zenodo.18147498)
+- 📄 **Paper:** [SBCM Case Study: Comparative Analysis of Fiscal Stagnation and Structural Wealth Extraction](https://doi.org/10.5281/zenodo.18147498) (Zenodo)
+- 📊 **Data:** [SBCM-Case-Studies/Evidence](https://github.com/SBCM-Alliance/Case-Studies) (Financial Analysis Data)
   
 ## 🛠️ Features & Skills
 
