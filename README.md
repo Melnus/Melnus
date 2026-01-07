@@ -74,7 +74,13 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18147498.svg)](https://doi.org/10.5281/zenodo.18147498)
 - 📄 **Paper:** [SBCM Case Study: Comparative Analysis of Fiscal Stagnation and Structural Wealth Extraction](https://doi.org/10.5281/zenodo.18147498) (Zenodo)
 - 📊 **Data:** [SBCM-Case-Studies/Evidence](https://github.com/SBCM-Alliance/Case-Studies) (Financial Analysis Data)
+
+### 6.SBCM Note #6: The Thermodynamic Limit of AI-Driven Growth (v2.0) — Digital Sprawl and the Conservation of Management Cost —
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18168070.svg)](https://doi.org/10.5281/zenodo.18168070)
+- 📄 **Paper:** [SBCM Note #6: The Thermodynamic Limit of AI-Driven Growth (v2.0)](https://doi.org/10.5281/zenodo.18168070) (Zenodo)
   
+![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/001_20260107_lawsofphysics.jpg)
+
 ## 🛠️ Features & Skills
 
 ### Engineering & Analysis
