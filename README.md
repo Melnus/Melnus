@@ -66,7 +66,7 @@
 📀[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)  
 📀[SBCM Simulator](https://github.com/SBCM-Alliance/SBCM-Simulator) / [(Demo)](https://sbcm-alliance.github.io/SBCM-Simulator/)
 
-### 5. SBCM Case Study (The Empirical Proof) 🌟 New!
+### 5. SBCM Case Study (The Empirical Proof) 
 **東京・大阪・愛知における財政停滞と構造的富の搾取の比較分析**  
 理論編（Part 1-4）の方程式を、実際の決算データ（FY2024）に適用した実証研究の決定版。
 愛知県（産業中枢）を対照群とし、東京都が**「他地域の富を構造的に吸い上げ（Extraction）」**、かつ**「その富を死蔵させている（Stagnation）」**事実を、資金回転率（ $R_{fund} \approx 0.47$ ）等の指標により定量的に証明した。
@@ -80,6 +80,19 @@
 - 📄 **Paper:** [SBCM Note #6: The Thermodynamic Limit of AI-Driven Growth (v2.0)](https://doi.org/10.5281/zenodo.18168070) (Zenodo)
   
 ![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/001_20260107_lawsofphysics.jpg)
+
+#### 7. SBCM Note #7 (Physics of Failure) 🌟 New!
+**The Theory of Entropic Elasticity (v2.1)**
+**— The Law of Potential Capacity and the Mechanism of Wealth Ejection —**
+
+エントロピー弾性理論：地方創生（バラマキ）が物理的に失敗するメカニズムの解明
+地域経済を「無限の容器（バケツ）」ではなく、固有の限界容量（$C_{pot}$）を持つ「弾性体（Elastic Body）」として再定義する。予算の注入速度（$\tau_{money}$）が社会構造の変化速度（$\tau_{structure}$）を超過した時、系は「塑性変形（成長）」せず、フックの法則に従って富を外部へ「弾性排出（Ejection）」することを数学的に証明する。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18182060.svg)](https://doi.org/10.5281/zenodo.18182060)
+
+- 📄 **Paper:** [SBCM Note #7: The Theory of Entropic Elasticity (v2.1)](https://doi.org/10.5281/zenodo.18182060) (Zenodo)
+
+![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/002_20260108_Formula.png)
 
 ## 🛠️ Features & Skills
 
