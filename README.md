@@ -81,7 +81,8 @@
   
 ![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/001_20260107_lawsofphysics.jpg)
 
-#### 7. SBCM Note #7 (Physics of Failure) 🌟 New!
+#### 7. SBCM Note #7 (Physics of Failure) 
+
 **The Theory of Entropic Elasticity (v2.1)**
 **— The Law of Potential Capacity and the Mechanism of Wealth Ejection —**
 
@@ -93,6 +94,19 @@
 - 📄 **Paper:** [SBCM Note #7: The Theory of Entropic Elasticity (v2.1)](https://doi.org/10.5281/zenodo.18182060) (Zenodo)
 
 ![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/002_20260108_Formula.png)
+
+#### 8. SBCM Case Study (Evidence of Ruin) 🌟 New!
+**SBCM Case Study: Thermodynamic Classification of Standard Block Municipalities**
+**— Visualizing the Structural Failure of Japanese Local Governance via the Distortion Matrix —**
+
+標準ブロック（7万人都市）の臨床解剖：日本の地方自治における「構造的破綻」の可視化
+SBCMマトリクスを用いて実データを解析し、地方自治体が「熱死（Heat Death / 維持費による圧死）」か「植民地（Colony / 富の収奪）」のいずれかに二極分化している実態を暴く。特筆すべきは、健全な「自律循環（Autonomy）」を実現している都市が**統計的に存在しない（空集合）**という事実である。これは、現行の集権システムが物理的に寿命を迎えていることの決定的な証拠（Evidence）となる。
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18199853.svg)](https://doi.org/10.5281/zenodo.18199853)
+
+- 📄 **Paper:** [SBCM Case Study: Thermodynamic Classification of Standard Block Municipalities](https://doi.org/10.5281/zenodo.18199853) (Zenodo)
+
+![](https://github.com/SBCM-Alliance/Case-Studies/blob/main/002_StandardBlockMunicipalities/Evidence/note8_Evidence.png)
 
 ## 🛠️ Features & Skills
 
