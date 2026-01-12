@@ -95,7 +95,7 @@
 
 ![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/002_20260108_Formula.png)
 
-#### 8. SBCM Case Study (Evidence of Ruin) 🌟 New!
+#### 8. SBCM Case Study (Evidence of Ruin) 
 **SBCM Case Study: Thermodynamic Classification of Standard Block Municipalities**
 **— Visualizing the Structural Failure of Japanese Local Governance via the Distortion Matrix —**
 
@@ -107,6 +107,29 @@ SBCMマトリクスを用いて実データを解析し、地方自治体が「�
 - 📄 **Paper:** [SBCM Case Study: Thermodynamic Classification of Standard Block Municipalities](https://doi.org/10.5281/zenodo.18199853) (Zenodo)
 
 ![](https://github.com/SBCM-Alliance/Case-Studies/blob/main/002_StandardBlockMunicipalities/Evidence/note8_Evidence.png)
+
+### 🔗 9. SBCM Note #8 (The Grand Unification) 🌟 New!
+
+**SBCM Note #8: The General Theory of Physical Governance and the End of Speculation (v5.0)**
+**— From "Floating Fiction" to "Process Batches": The Physics of G-Cart —**
+
+統治工学の樹立：なぜ仮想通貨は暴騰・暴落するのか？ その正体は、物理的な「器（$C_{pot}$）」を持たない浮遊エネルギーが、実世界への狭い出口を通過する際に発生する**「ジュール熱（Speculation）」**である。
+本論文は、G-Cartアーキテクチャを通じてトークンを「貨幣」から物理的な**「工程管理バッチ（Signal）」**へと再定義し、地方自治体を「市民的計算可能性」を持つ物理計算機として扱うことで、この熱を**「仕事（Work）」**へと変換する回路を設計する。物理的距離（重力）をセキュリティ・ファイアウォールとして機能させることで、マネーゲームを終わらせ、工学としての統治を開始する。
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18222035-blue)](https://doi.org/10.5281/zenodo.18222035)
+
+*   📄 **Paper:** [SBCM Note #8: The General Theory of Physical Governance and the End of Speculation (v5.0)](https://doi.org/10.5281/zenodo.18222035)
+
+$$
+\text{Speculation as Heat:} \quad Q_{spec} = \int I(t)^2 R_{exit}(t) dt
+$$
+$$
+\text{Work Standard:} \quad 1 \text{ Token} \equiv 1 \text{ Joule (Physical Work)}
+$$
+$$
+\text{Gravity Firewall:} \quad \text{Cost} \propto \text{Bid} + \alpha \cdot \text{Distance}^2
+$$
+
 
 ## 🛠️ Features & Skills
 
