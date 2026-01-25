@@ -24,9 +24,11 @@
 | :--- | :--- | :---: |
 | **[🌏 SBCM GLOBAL SCANNER](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** | **Infrastructure Efficiency Auditor.**<br>都市のインフラ効率と富の流出を3D可視化するスキャナー。<br>WebGL / OpenStreetMap | **[LIVE]** |
 | **[🔋 Hungry Sona](https://sbcm-alliance.github.io/sona-battery-link/)** | **Digital Metabolism Experiment.**<br>スマホのバッテリー残量＝AIの空腹度。<br>充電を「餌やり」に変えるインターフェース実験。 | **[LIVE]** |
-
+| **[📜 Political party matching style Simulator](https://github.com/SBCM-Alliance/Political-party-matching-style-simulator)**| **Policy Thermodynamics Auditor.** 2026年衆院選公約を「物理パラメータ」として演算。手取りとインフレ、行政の歪みのトレードオフを可視化。 | **[LIVE]** |
+| **[🏦 Central Bank Simulator](https://github.com/SBCM-Alliance/Central-Bank-Simulator)** | **Monetary Deadlock Visualizer.** 金利操作が家計の「接地」と市場の「期待」に与える物理的衝撃を可視化。政策のデッドロックをデバッグする。 | **[LIVE]** |
+  
 ---
-
+  
 ## 🏛️ Latest Research & Publications
 **行政評価と地域経済に関する最新の研究成果（論文・実装）**
 
