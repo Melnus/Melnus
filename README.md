@@ -32,6 +32,46 @@
 ## 🏛️ Latest Research & Publications
 **行政評価と地域経済に関する最新の研究成果（論文・実装）**
 
+## 🌟 [The General Theory of Governance Engineering (v2.0)](https://doi.org/10.5281/zenodo.18427082)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18427082-blue)](https://doi.org/10.5281/zenodo.18427082)
+
+## 📐 The Mathematical Axioms of Governance Engineering (SBCM v2.0)
+「統治工学の一般理論（The General Theory of Governance Engineering）」を通じ、社会システムを物理学の公理（熱力学・流体力学）に基づきデバッグしています。この論文は過去に書いた論文群の統合・ブラッシュアップ版です。
+
+### 1. 統治のクォンタム (The Quantum of Governance)
+人口規模の異なる自治体間での比較・監査を可能にする、統治の最小正規化単位。
+  
+$$B_{std} = \frac{P_{total}}{N_{muni}} \approx 72,176 \quad [\text{persons/block}]$$
+  
+### 2. 複素富ベクトルと位相角 (Complex Wealth Vector & Phase Angle)
+富を「実体（物理質量）」と「信号（情報）」の重ね合わせとして定義。位相角 $\theta$ の増大はシステムの脆弱性（バブル）を意味する。
+  
+$$Z_{jpy} = M_w + iM_c \quad , \quad \theta = \tan^{-1}\left(\frac{M_c}{M_w}\right)$$
+  
+### 3. 行政水理学：富の連続の式 (Administrative Hydraulics)
+地域経済を連続的な流体場としてモデル化。富の発散（$\nabla \cdot \mathbf{J} \gg 0$）は、地域を蝕む「ストロー効果」の数学的実体である。
+  
+$$\frac{\partial \rho}{\partial t} + \nabla \cdot \mathbf{J} = \sigma - \delta(\rho)$$
+  
+### 4. エントロピー弾性理論 (Entropic Elasticity)
+地域が許容できる「仕事」の限界（潜在容積 $C_{pot}$）を超えた過剰な予算注入は、復元力による資本の外部流出（弾性反発）を引き起こす。
+  
+$$\mathbf{F}_{eject} = -k(S_{current} - C_{pot}) \quad , \quad \frac{dS_{in}}{dt} \gg \frac{dC_{pot}}{dt} \implies \text{Total Ejection}$$
+  
+### 5. 知能成長の熱力学的限界 (The Thermodynamic Limit of AI)
+知能爆発も物理コストからは逃れられない。管理エントロピー $\gamma$ が生産性 $\sigma$ を追い越す時、系は不可逆的な「熱的死」へ至る。
+  
+$$\dot{K} = sA^{\sigma}K^{\alpha} - \delta_0 A^{\gamma}K \quad (\gamma \geq \sigma \implies \text{Heat Death})$$
+  
+### 6. 物理的接地と重力ファイアウォール (Grounding & Gravity Firewall)
+投機によるジュール熱を物理的な「仕事」へと変換し、物理的距離 $D$ をハック不可能なセキュリティ障壁として再定義する。
+  
+$$Q_{spec} = \int I(t)^2 R_{exit}(t) dt \quad , \quad Cost \propto Bid + \alpha \cdot D^2$$
+  
+<details>
+<summary><b>📂 Archives: Research Modules (旧版・個別モジュール詳細)</b></summary>
+  
 ### 1. Standard Block Comparison Method (SBCM)
 **行政施策の定量的評価における標準ブロック比較法の提案**  
 人口規模の異なる自治体間での行政コストと効果を比較可能にする監査フレームワーク。
@@ -110,7 +150,7 @@ SBCMマトリクスを用いて実データを解析し、地方自治体が「�
 
 ![](https://github.com/SBCM-Alliance/Case-Studies/blob/main/002_StandardBlockMunicipalities/Evidence/note8_Evidence.png)
 
-### 🔗 9. SBCM Note #8 (The Grand Unification) 🌟 New!
+### 🔗 9. SBCM Note #8 (The Grand Unification) 
 
 **SBCM Note #8: The General Theory of Physical Governance and the End of Speculation (v5.0)**
 **— From "Floating Fiction" to "Process Batches": The Physics of G-Cart —**
@@ -121,18 +161,13 @@ SBCMマトリクスを用いて実データを解析し、地方自治体が「�
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18222035-blue)](https://doi.org/10.5281/zenodo.18222035)
 
 *   📄 **Paper:** [SBCM Note #8: The General Theory of Physical Governance and the End of Speculation (v5.0)](https://doi.org/10.5281/zenodo.18222035)
-
-$$
-\text{Speculation as Heat:} \quad Q_{spec} = \int I(t)^2 R_{exit}(t) dt
-$$
-$$
-\text{Work Standard:} \quad 1 \text{ Token} \equiv 1 \text{ Joule (Physical Work)}
-$$
-$$
-\text{Gravity Firewall:} \quad \text{Cost} \propto \text{Bid} + \alpha \cdot \text{Distance}^2
-$$
-
-
+  
+$\text{Speculation as Heat:} \quad Q_{spec} = \int I(t)^2 R_{exit}(t) dt$  
+$\text{Work Standard:} \quad 1 \text{ Token} \equiv 1 \text{ Joule (Physical Work)}$  
+$\text{Gravity Firewall:} \quad \text{Cost} \propto \text{Bid} + \alpha \cdot \text{Distance}^2$  
+  
+</details>  
+  
 ## 🛠️ Features & Skills
 
 ### Engineering & Analysis
