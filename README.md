@@ -28,7 +28,11 @@
 | **[🏦 Central Bank Simulator](https://github.com/SBCM-Alliance/Central-Bank-Simulator)** | **Monetary Deadlock Visualizer.** 金利操作が家計の「接地」と市場の「期待」に与える物理的衝撃を可視化。政策のデッドロックをデバッグする。 | **[LIVE]** |
   
 ---
-  
+
+<details>
+<summary><b> 📂 Archives </b></summary>
+
+    
 ## 🏛️ Latest Research & Publications
 **行政評価と地域経済に関する最新の研究成果（論文・実装）**
 
@@ -76,9 +80,7 @@
 ---
 
 
-<details>
-<summary><b>📂 Archives: Research Modules (旧版・個別モジュール詳細)</b></summary>
-  
+
 ### 1. Standard Block Comparison Method (SBCM)
 **行政施策の定量的評価における標準ブロック比較法の提案**  
 人口規模の異なる自治体間での行政コストと効果を比較可能にする監査フレームワーク。
