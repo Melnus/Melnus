@@ -1,206 +1,124 @@
 # Melnus
+
 <img src="image/nekochan.png" width="100%" alt="Header" title="Melnus">
 
 <div align="center">
 
-**Civic Tech Engineer / Independent Researcher / VR Citizen**
+**Institution designer & civic-tech builder · Independent researcher · VR citizen**
 
-> *"Numbers never lie."*
+> *Make the flows visible. Then design incentives that don't depend on price.*
 
 [![Note](https://img.shields.io/badge/note-%23404040.svg?style=for-the-badge&logo=note&logoColor=white)](https://note.com/melnus_)
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Melnus_)
 ![Discord](https://img.shields.io/badge/Discord-melnus-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Mixi2](https://img.shields.io/badge/Mixi2-meln-%23F39800.svg?style=for-the-badge&logo=mixi&logoColor=white)
+
 </div>
-  
-## 連絡先/Contact  
-👉️  [Here](https://github.com/SBCM-Alliance/core-theory/issues/1)
+
+## Contact
+
+👉 [Open a discussion or contact me here](https://github.com/SBCM-Alliance/core-theory/issues/1)
 
 ---
 
-## 🚀 Active Projects (Live Demos)
+## 👋 About me
 
-| Project | Description | Status |
+I'm interested in how **resources, money, rights, and responsibilities move through networks of identities**—and how institutions can remain functional when price alone isn't enough to motivate participation.
+
+My long-term focus is public welfare and local government. I explore how systems allocate resources, distribute authority, establish accountability, and create incentives for cooperation.
+
+I'm less interested in wealth as an end in itself than in the rules that govern how it is created, allocated, and used. I want to understand who can do what, who bears the costs, who is accountable, and what makes participation worthwhile.
+
+## 🔧 How I work
+
+1. **Make flows traceable.** Build ledgers, accounts, transaction histories, and provenance records. A system is difficult to understand or audit if its flows cannot be followed.
+
+2. **Design beyond price alone.** Explore how qualifications, permissions, roles, reputation, and shared decision-making can complement monetary incentives.
+
+3. **Test in a sandbox first.** Build small, runnable systems—such as a Minecraft economic simulation—to make rules executable, observe their behavior, and find problems before considering real-world applications.
+
+4. **Connect models to real public data.** Work with municipal finances, infrastructure, and labor statistics, while making source quality and data limitations explicit.
+
+**Related fields:** Mechanism design · Institutional economics and commons governance · Public finance and asset management · Public accounting · Civic technology
+
+---
+
+## 📍 Now · October 2026
+
+- 🐝 **Bee-My-Honey v0.4.5:** An economic simulation with loans, transaction history, a quest board, staffing dispatch, and pool cash-out. Next: exchange and supply-chain systems.
+- 🗺️ **Hataraki Map:** Building a labor-economics dashboard for Chiba Prefecture using official statistics, explicit source-reliability labels, and an occupation taxonomy that distinguishes license-restricted work from unlicensed work.
+- 🔌 **Second-Class Electrician:** Studying for Japan's written examination, with a longer-term interest in off-grid and distributed energy systems.
+- 📖 **Sister and Bread:** Writing [a long-form science-fiction novel](https://kakuyomu.jp/works/16817330665203576038) planned for 120 episodes and approximately 175,000 Japanese characters.
+- 🌐 **Localization:** Contributing Japanese translations as KOKUTEN on [Weblate](https://weblate.simcompanies.com/stats/), including Sim Companies. Ranked #1 in translation activity across projects.
+
+---
+
+## 🚀 Projects
+
+### 🎮 Institutional sandbox · Minecraft Bedrock add-ons
+
+| Project | What it explores | Status |
 | :--- | :--- | :---: |
-| **[🌏 SBCM GLOBAL SCANNER](https://sbcm-alliance.github.io/SBCM-Global-Scanner/)** | **Infrastructure Efficiency Auditor.**<br>都市のインフラ効率と富の流出を3D可視化するスキャナー。<br>WebGL / OpenStreetMap | **[LIVE]** |
-| **[🔋 Hungry Sona](https://sbcm-alliance.github.io/sona-battery-link/)** | **Digital Metabolism Experiment.**<br>スマホのバッテリー残量＝AIの空腹度。<br>充電を「餌やり」に変えるインターフェース実験。 | **[LIVE]** |
-| **[📜 Political party matching style Simulator](https://github.com/SBCM-Alliance/Political-party-matching-style-simulator)**| **Policy Thermodynamics Auditor.** 2026年衆院選公約を「物理パラメータ」として演算。手取りとインフレ、行政の歪みのトレードオフを可視化。 | **[LIVE]** |
-| **[🏦 Central Bank Simulator](https://github.com/SBCM-Alliance/Central-Bank-Simulator)** | **Monetary Deadlock Visualizer.** 金利操作が家計の「接地」と市場の「期待」に与える物理的衝撃を可視化。政策のデッドロックをデバッグする。 | **[LIVE]** |
-  
----
+| **[🐝 Bee-My-Honey](https://github.com/Melnus/Bee-My-Honey)** | An anarcho-market economy simulator exploring stocks, foreign exchange, futures, banking, mail-order commerce, labor markets (HRMHRM), loans, quests, and staffing dispatch. Includes identity-based corporate templates, an accounting layer, and a cold wallet that turns keys into story-form passphrases. Public welfare is being designed as a major sink for circulating money. Japanese and English UI. | **v0.4.5** |
+| **[⛵ Bell-Boats](https://github.com/Melnus/Bell-Boats)** | Base registration and transportation using bell-based identity anchors. | **Released** |
 
-<details>
-<summary><b> 📂 Archives </b></summary>
+### 🏛️ Civic technology · Labor and public data
 
-    
-## 🏛️ Latest Research & Publications
-**行政評価と地域経済に関する最新の研究成果（論文・実装）**
+| Project | What it does | Status |
+| :--- | :--- | :---: |
+| **Hataraki Map** | A labor-economics dashboard for Chiba Prefecture. Uses MapLibre GL JS, manifest-driven JSON, official statistics with source-reliability labels, and an occupation taxonomy distinguishing license-restricted from unlicensed work. | **In progress** |
+| **[Open-Civic-Data-Harvester](https://github.com/SBCM-Alliance/Open-Civic-Data-Harvester)** | Extracts structured data from municipal settlement and infrastructure documents to support public-sector analysis. | **GitHub** |
+| **[Yorbee](https://github.com/SBCM-Alliance/Yorbee)** | Explores skill matching by decomposing jobs into tasks and skills rather than treating job titles as indivisible units. | **GitHub** |
+| **[Political Party Matching Style Simulator](https://github.com/SBCM-Alliance/Political-party-matching-style-simulator)** | Models the 2026 House of Representatives election pledges as parameters to explore trade-offs involving take-home pay, inflation, and administrative distortion. | **Live** |
+| **[Central Bank Simulator](https://github.com/SBCM-Alliance/Central-Bank-Simulator)** | Visualizes how interest-rate changes can affect households and market expectations. | **Live** |
 
-## [The General Theory of Governance Engineering (v2.0)](https://doi.org/10.5281/zenodo.18427082)
+### 🔋 Off-grid systems · AI companions
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18427082-blue)](https://doi.org/10.5281/zenodo.18427082)
-
-## 📐 The Mathematical Axioms of Governance Engineering (SBCM v2.0)
-
-   ![](https://github.com/SBCM-Alliance/core-theory/blob/main/Axiom.png)
-
-
-## SBCM v3.0: Planetary Scale (惑星規模)
-![](https://github.com/SBCM-Alliance/extended-theory/blob/main/v3.0-Topological-Global-Economics/Axioms-SBCM-v3.0.jpg)
-
-### **[Topological Global Economics](https://doi.org/10.5281/zenodo.18522362)**
-**Geometric Equilibrium and Structural Buckling on a Closed Riemannian Manifold**
-
-*   **DOI:** [10.5281/zenodo.18522362](https://doi.org/10.5281/zenodo.18522362)
-*   **Key Concepts:** Flat-Earth Fallacy, Spherical Tessellation, Economic Fault Lines.
-*   **Abstract:** 
-    We dismantle the "Flat-Earth Fallacy" of macroeconomics. By modeling the Earth as a closed 2D Riemannian manifold, we identify **"Economic Fault Lines"** caused by mass misalignment. Conflict is redefined not as a political failure, but as a physical **"Structural Buckling"** of the planetary system.
-*   **日本語要旨:** 
-    マクロ経済学の「無限平面の誤謬」を解体する。地球を閉じた2次元リーマン多様体としてモデル化し、質量の不整合が生む「経済的断層」を特定。紛争を政治的失敗ではなく、惑星システムの物理的な「構造的座屈」として再定義する。
+| Project | What it does | Status |
+| :--- | :--- | :---: |
+| **[SONA-OS](https://github.com/SBCM-Alliance/SONA-OS)** | System design for an off-grid home managed by an AI character, Sona. | **GitHub** |
+| **[🔋 Hungry Sona](https://sbcm-alliance.github.io/sona-battery-link/)** | An interface experiment that maps a phone's battery level to an AI character's hunger, turning charging into a form of feeding. | **Live** |
 
 ---
 
-## SBCM v4.0: Stellar Scale (恒星系規模)
-![](https://github.com/SBCM-Alliance/extended-theory/blob/main/v4.0-Spacetime%20Governance%20Engineering/Axioms-SBCM-v4.0.jpg)
+## 🛠️ Skills
 
+### Engineering & analysis
 
-### **[Spacetime Governance Engineering](https://doi.org/10.5281/zenodo.18523255)**
-**Relativistic Circuit Modeling and Stellar Energy Standards for Multi-Planetary Equilibrium**
+- **Python:** Data analysis, simulation, and Streamlit applications
+- **Web visualization:** MapLibre GL JS, WebGL, and JSON-driven dashboards
+- **Minecraft Bedrock Script API:** Economic systems, markets, and game mechanics
+- **C#** · Unity and tooling
+- **Civic technology:** Public-data processing, administrative analysis, and open-data workflows
 
-*   **DOI:** [10.5281/zenodo.18523255](https://doi.org/10.5281/zenodo.18523255)
-*   **Key Concepts:** Gravity Well Fallacy, Stellar Energy Standard, Spacetime Impedance Matching ($L$).
-*   **Abstract:** 
-    A blueprint for multi-planetary civilization. We introduce the **Spacetime Metric ($g_{\mu\nu}$)** as a cost function and treat light-speed lag as **Inductance ($L$)** in a governance circuit. The **Stellar Energy Standard** grounds all value in the star's output ($L_{\star}$), enabling synchronization across the gravity well.
-*   **日本語要旨:** 
-    多惑星文明のための設計図。「重力の井戸の誤謬」を克服するため、時空計量をコスト関数として導入し、光速ラグを統治回路における「インダクタンス」として処理する。すべての価値を恒星出力に接地させ、重力の谷を越えた「同期」を実現する。
+### Creative work & writing
 
+- **3D modeling:** Blender, VRM, sound editing, and illustration ([drawing dots!](https://www.pixiv.net/users/23070523))
+- **Conlang & worldbuilding:** Manihoria Common Language, including its writing system, grammar, and custom font
+- **Fiction:** *Sister and Bread*
+- **Localization:** Weblate and Japanese-language game localization
 
+### Current learning
 
-
----
-
-
-
-### 1. Standard Block Comparison Method (SBCM)
-**行政施策の定量的評価における標準ブロック比較法の提案**  
-人口規模の異なる自治体間での行政コストと効果を比較可能にする監査フレームワーク。
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17766254.svg)](https://doi.org/10.5281/zenodo.17766254)
-- 📄 **Paper:** [Proposal for the Standard Block Comparison Method (SBCM)](https://doi.org/10.5281/zenodo.17766254) (Zenodo)
-- 💻 **Code:** [Standard-Block-Comparison-Method](https://github.com/Melnus/Standard-Block-Comparison-Method) (GitHub)
-
-### 2. SBCM Economics (Meso-Economics)
-**富の定着と循環を最大化するメソ経済フレームワーク**  
-「漏出（ストロー効果）」を防ぎ、地域内経済循環率を高めるための理論と実装（G-Cart）。
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17766604.svg)](https://doi.org/10.5281/zenodo.17766604)
-- 📄 **Paper:** [SBCM Economics: A Meso-Economic Framework](https://doi.org/10.5281/zenodo.17766604) (Zenodo)
-- 💻 **Code:** [Virtual-General-Contractor](https://github.com/Melnus/Virtual-General-Contractor) (GitHub)
-
-### 3. SBCM Economics Part 2 (Dynamic Analysis)
-**統治の熱力学とアルゴリズム公益主義**  
-時間軸 ( $t$ ) と無限 ( $\infty$ ) を導入し、インフラの将来負担（累積歪み）を積分計算する動的モデル。
-「道徳」ではなく「物理法則」によって公益を強制する新たな統治プロトコル。
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17777745.svg)](https://doi.org/10.5281/zenodo.17777745)
-- 📄 **Paper:** [SBCM Economics Part 2: Dynamic Meso-Economics](https://doi.org/10.5281/zenodo.17777745) (Zenodo)
-- 💻 **Code:** [SBCM-The Heart (Thermodynamic Simulator)](https://github.com/SBCM-Alliance/the-heart) (GitHub)
-
-### 4. SBCM Field Theory (Administrative Hydraulics)
-**行政水理学：富の流束と発散を制御する場の方程式**  
-地域経済を離散ブロックではなく「連続的な流体場」として記述するSBCMの最終理論。
-富の流出（ストロー効果）をベクトル場の「正の発散（ $\nabla \cdot \mathbf{J} > 0$ ）」として定義し、それを制御するG-Cart（メッシュ細分化）の必然性を数学的に証明。
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17890326.svg)](https://doi.org/10.5281/zenodo.17890326)
-- 📄 **Paper:** [SBCM Field Theory: The General Equations of Regional Flux and the Control of Divergence](https://doi.org/10.5281/zenodo.17890326) (Zenodo)
-- 💻 **Code:**  
-📀[SBCM Global Scanner](https://github.com/SBCM-Alliance/SBCM-Global-Scanner)  
-📀[SBCM Simulator](https://github.com/SBCM-Alliance/SBCM-Simulator) / [(Demo)](https://sbcm-alliance.github.io/SBCM-Simulator/)
-
-### 5. SBCM Case Study (The Empirical Proof) 
-**東京・大阪・愛知における財政停滞と構造的富の搾取の比較分析**  
-理論編（Part 1-4）の方程式を、実際の決算データ（FY2024）に適用した実証研究の決定版。
-愛知県（産業中枢）を対照群とし、東京都が**「他地域の富を構造的に吸い上げ（Extraction）」**、かつ**「その富を死蔵させている（Stagnation）」**事実を、資金回転率（ $R_{fund} \approx 0.47$ ）等の指標により定量的に証明した。
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18147498.svg)](https://doi.org/10.5281/zenodo.18147498)
-- 📄 **Paper:** [SBCM Case Study: Comparative Analysis of Fiscal Stagnation and Structural Wealth Extraction](https://doi.org/10.5281/zenodo.18147498) (Zenodo)
-- 📊 **Data:** [SBCM-Case-Studies/Evidence](https://github.com/SBCM-Alliance/Case-Studies) (Financial Analysis Data)
-
-### 6.SBCM Note #6: The Thermodynamic Limit of AI-Driven Growth (v2.0) — Digital Sprawl and the Conservation of Management Cost —
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18168070.svg)](https://doi.org/10.5281/zenodo.18168070)
-- 📄 **Paper:** [SBCM Note #6: The Thermodynamic Limit of AI-Driven Growth (v2.0)](https://doi.org/10.5281/zenodo.18168070) (Zenodo)
-  
-![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/001_20260107_lawsofphysics.jpg)
-
-#### 7. SBCM Note #7 (Physics of Failure) 
-
-**The Theory of Entropic Elasticity (v2.1)**
-**— The Law of Potential Capacity and the Mechanism of Wealth Ejection —**
-
-エントロピー弾性理論：地方創生（バラマキ）が物理的に失敗するメカニズムの解明
-地域経済を「無限の容器（バケツ）」ではなく、固有の限界容量（$C_{pot}$）を持つ「弾性体（Elastic Body）」として再定義する。予算の注入速度（$\tau_{money}$）が社会構造の変化速度（$\tau_{structure}$）を超過した時、系は「塑性変形（成長）」せず、フックの法則に従って富を外部へ「弾性排出（Ejection）」することを数学的に証明する。
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18182060.svg)](https://doi.org/10.5281/zenodo.18182060)
-
-- 📄 **Paper:** [SBCM Note #7: The Theory of Entropic Elasticity (v2.1)](https://doi.org/10.5281/zenodo.18182060) (Zenodo)
-
-![](https://github.com/SBCM-Alliance/core-theory/blob/main/notes/images/002_20260108_Formula.png)
-
-#### 8. SBCM Case Study (Evidence of Ruin) 
-**SBCM Case Study: Thermodynamic Classification of Standard Block Municipalities**
-**— Visualizing the Structural Failure of Japanese Local Governance via the Distortion Matrix —**
-
-標準ブロック（7万人都市）の臨床解剖：日本の地方自治における「構造的破綻」の可視化
-SBCMマトリクスを用いて実データを解析し、地方自治体が「熱死（Heat Death / 維持費による圧死）」か「植民地（Colony / 富の収奪）」のいずれかに二極分化している実態を暴く。特筆すべきは、健全な「自律循環（Autonomy）」を実現している都市が**統計的に存在しない（空集合）**という事実である。これは、現行の集権システムが物理的に寿命を迎えていることの決定的な証拠（Evidence）となる。
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18199853.svg)](https://doi.org/10.5281/zenodo.18199853)
-
-- 📄 **Paper:** [SBCM Case Study: Thermodynamic Classification of Standard Block Municipalities](https://doi.org/10.5281/zenodo.18199853) (Zenodo)
-
-![](https://github.com/SBCM-Alliance/Case-Studies/blob/main/002_StandardBlockMunicipalities/Evidence/note8_Evidence.png)
-
-### 🔗 9. SBCM Note #8 (The Grand Unification) 
-
-**SBCM Note #8: The General Theory of Physical Governance and the End of Speculation (v5.0)**
-**— From "Floating Fiction" to "Process Batches": The Physics of G-Cart —**
-
-統治工学の樹立：なぜ仮想通貨は暴騰・暴落するのか？ その正体は、物理的な「器（$C_{pot}$）」を持たない浮遊エネルギーが、実世界への狭い出口を通過する際に発生する**「ジュール熱（Speculation）」**である。
-本論文は、G-Cartアーキテクチャを通じてトークンを「貨幣」から物理的な**「工程管理バッチ（Signal）」**へと再定義し、地方自治体を「市民的計算可能性」を持つ物理計算機として扱うことで、この熱を**「仕事（Work）」**へと変換する回路を設計する。物理的距離（重力）をセキュリティ・ファイアウォールとして機能させることで、マネーゲームを終わらせ、工学としての統治を開始する。
-
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18222035-blue)](https://doi.org/10.5281/zenodo.18222035)
-
-*   📄 **Paper:** [SBCM Note #8: The General Theory of Physical Governance and the End of Speculation (v5.0)](https://doi.org/10.5281/zenodo.18222035)
-  
-$\text{Speculation as Heat:} \quad Q_{spec} = \int I(t)^2 R_{exit}(t) dt$  
-$\text{Work Standard:} \quad 1 \text{ Token} \equiv 1 \text{ Joule (Physical Work)}$  
-$\text{Gravity Firewall:} \quad \text{Cost} \propto \text{Bid} + \alpha \cdot \text{Distance}^2$  
-  
-</details>  
-  
-## 🛠️ Features & Skills
-
-### Engineering & Analysis
-- **Python** (Data Analysis, Simulation, Streamlit)
-- **GovTech / Civic Tech** (Administrative Audit, Open Data)
-- **C#** (Unity / Tool Development)
-
-### Creative
-- **3D Modeling** (Blender, VRM)
-- **Sound & Music Editing**
-- **Illustration** ([drawing dots!](https://www.pixiv.net/users/23070523))
+- Second-Class Electrician (Japan)
+- Off-grid and distributed energy systems
 
 ---
 
-## 📦 3D Models & Assets
+## 📦 3D models & assets
 
-**Services**
+### Platforms
+
 - [Seed Online](https://seed.online/users/100088)
 - [VRoid Hub](https://hub.vroid.com/users/23070523)
 - [ニコニ立体](http://3d.nicovideo.jp/u/melnus)
 
-**Original Works**
-- [Reine (GitHub)](https://github.com/Melnus/Reine-VRM-Model)
-- [Yue (GitHub)](https://github.com/Melnus/Yue-VRM-Model-)
+### Original works
+
+- [Reine · VRM Model](https://github.com/Melnus/Reine-VRM-Model)
+- [Yue · VRM Model](https://github.com/Melnus/Yue-VRM-Model-)
+
+---
 
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/Melnus/count.svg)
